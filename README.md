@@ -4,7 +4,7 @@ A modern, high-performance personal portfolio website built for **Kalpesh Bhanud
 
 Designed to create an immediate 5-second impact on technical recruiters, engineering managers, and talent acquisition teams.
 
-![Portfolio Preview](./src/assets/images/cashew_store_mockup_1785064448727.jpg)
+![Portfolio Preview](./src/assets/images/portfolio.png)
 
 ---
 
